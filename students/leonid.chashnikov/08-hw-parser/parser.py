@@ -1,5 +1,6 @@
 from collections import OrderedDict
 
+from tokenize_uk import tokenize_uk
 from read_files import read_file
 from read_files import debug
 from read_files import files
@@ -150,7 +151,6 @@ def dep_parse(sentence, oracle, vectorizer, log=False):
 
 def _calculate_uas(classifier, vectorizer):
     trees = read_file(files[1])
-    trees = filter_trees(trees)
     total, tp = 0, 0
     for tree in trees:
         tree = [t for t in tree if type(t["id"]) == int]
@@ -166,6 +166,18 @@ def _calculate_uas(classifier, vectorizer):
     print("Total:", total)
     print("Correctly defined:", tp)
     print("UAS:", round(tp / total, 2))
+
+
+def _check_own_sents(classifier, vectorizer):
+    sentences = []
+    for sent in sentences:
+        # tokenize with tokenize-uk
+        words = tokenize_uk.tokenize_words(sent)
+        for w in words:
+            # parse with pymorphy
+            # sentence - a list of dicts, with keys 'form', 'lemma', upostag, feats
+            # convert POS with pymorphy_ud_convert.py
+            # pass to dep_parse
 
 
 if __name__ == "__main__":
@@ -185,3 +197,4 @@ if __name__ == "__main__":
     print(classification_report(test_labels, predicted))
 
     _calculate_uas(classifier, vectorizer)
+    _check_own_trees(classifier, vectorizer)
