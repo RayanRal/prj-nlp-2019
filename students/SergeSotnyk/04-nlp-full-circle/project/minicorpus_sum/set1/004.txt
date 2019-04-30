@@ -1,0 +1,10 @@
+@Keywords:
+FUEL, REVENUE, BA, PRICE, PROFIT, SURCHARGE, COST, RESULT, AVIATION, PASSENGER
+
+@Digest:
+High fuel prices hit BA's profits
+To help offset the increased price of aviation fuel, BA last year introduced a fuel surcharge for passengers.
+Yet aviation analyst Mike Powell of Dresdner Kleinwort Wasserstein says BA's estimated annual surcharge revenues - £160m - will still be way short of its additional fuel costs - a predicted extra £250m.
+Aviation analyst Nick Van den Brul of BNP Paribas described BA's latest quarterly results as "pretty modest".
+"It is quite good on the revenue side and it shows the impact of fuel surcharges and a positive cargo development, however, operating margins down and cost impact of fuel are very strong," he said.
+

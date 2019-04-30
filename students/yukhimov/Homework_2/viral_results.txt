@@ -1,3 +1,0 @@
-Entities: 55%
-Comparison: 5%
-Sentiment: 78%

@@ -1,0 +1,10 @@
+@Keywords:
+JAPAN, RECESSION, ECONOMY, GROWTH, QUARTER
+
+@Digest:
+Japan's economy teetered on the brink of a technical recession in the three months to September, figures show.
+A common technical definition of a recession is two successive quarters of negative growth.
+
+@Warnings:
+Quantity of words which can be keywords is less then ordered quantity.
+

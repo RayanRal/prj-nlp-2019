@@ -1,0 +1,7 @@
+# Query to get the list of all movies starring Jean Marais
+
+SELECT ?movie
+WHERE {
+?movie rdf:type dbo:Film .
+?movie dbo:starring dbr:Jean_Marais .
+}

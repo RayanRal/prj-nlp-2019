@@ -1,0 +1,12 @@
+
+SEED = 42
+
+TRAIN_SIZE = 0.7
+
+TITLE_WEIGHT = 0.8
+TITLE_NGRAMS = 3  # number of symbols in title ngrams
+
+YEAR_WEIGHT = 1 - TITLE_WEIGHT
+
+SIMILARITY_THRESHOLD = 0.7
+

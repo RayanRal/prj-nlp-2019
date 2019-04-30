@@ -1,0 +1,11 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX res:  <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?writing ?collection
+WHERE {
+	?uri dbo:author res:Poul_Anderson .
+        OPTIONAL {?uri dct:subject ?cat . 
+                  ?cat rdfs:label ?collection } .
+	?uri rdfs:label ?writing .
+        FILTER (lang(?writing) = 'en')
+}
