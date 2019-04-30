@@ -7,6 +7,7 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 
 
 class Actions:
@@ -51,18 +52,35 @@ def make_step(step, stack, queue, relations):
         stack.append(queue.pop(0))
 
 
-def generate_features(stack, queue, relations):
+def generate_features(stack, queue):
     feature_dict = dict()
     if len(stack) > 0:
         top_stack = stack[-1]
         feature_dict['stk_0_form'] = top_stack['form']
         feature_dict['stk_0_lemma'] = top_stack['lemma']
         feature_dict['stk_0_postag'] = top_stack['upostag']
+        if top_stack["feats"]:
+            for k, v in top_stack["feats"].items():
+                feature_dict["stk_0_feats_" + k] = v
+    #     stk - ldep, rdep
+    if len(stack) > 1:
+        feature_dict['stk_1_postag'] = stack[-2]['upostag']
     if len(queue) > 0:
         top_queue = queue[0]
         feature_dict['queue_0_form'] = top_queue['form']
         feature_dict['queue_0_lemma'] = top_queue['lemma']
         feature_dict['queue_0_postag'] = top_queue['upostag']
+        if top_queue["feats"]:
+            for k, v in top_queue["feats"].items():
+                feature_dict["queue_0_feats_" + k] = v
+        #     stk - ldep, rdep
+    if len(queue) > 1:
+        feature_dict['queue_1_form'] = queue[1]['form']
+        feature_dict['queue_1_postag'] = queue[1]['upostag']
+    if len(queue) > 2:
+        feature_dict['queue_2_postag'] = queue[2]['upostag']
+    if len(queue) > 3:
+        feature_dict['queue_3_postag'] = queue[3]['upostag']
     return feature_dict
 
 
@@ -81,7 +99,7 @@ def filter_trees(trees):
 def _get_labels_features(filename):
     trees = read_file(filename)
     trees = filter_trees(trees)
-    train_labels, train_features = [], []
+    labels, features = [], []
     for tree in trees:
         # stack - empty, queue - all words, relations - empty list
         # give all queue to oracle, it generates steps, then make step executes them and creates relations
@@ -89,28 +107,81 @@ def _get_labels_features(filename):
         while len(queue) > 0 and len(stack) > 0:
             top_queue = queue[0]
             step = oracle(stack, top_queue, relations)
-            train_labels.append(step)
-            train_features.append(generate_features(stack, queue, relations))
+            labels.append(step)
+            features.append(generate_features(stack, queue))
             make_step(step, stack, queue, relations)
 
         # print("Gold relations:")
         # print([(node["id"], node["head"]) for node in tree])
         # print("Retrieved relations:")
         # print(sorted(relations))
-    return train_labels, train_features
+    return labels, features
+
+
+def dep_parse(sentence, oracle, vectorizer, log=False):
+    stack, queue, relations = [ROOT], sentence[:], []
+    while queue or stack:
+        if stack and not queue:
+            stack.pop()
+        else:
+            features = generate_features(stack, queue)
+            action = oracle.predict(vectorizer.transform([features]))[0]
+            if log:
+                print("Stack:", [i["form"]+"_"+str(i["id"]) for i in stack])
+                print("Queue:", [i["form"]+"_"+str(i["id"]) for i in queue])
+                print("Relations:", relations)
+                print(action)
+                print("========================")
+            # actual parsing
+            if action == Actions.SHIFT:
+                stack.append(queue.pop(0))
+            elif action == Actions.REDUCE:
+                stack.pop()
+            elif action == Actions.LEFT:
+                relations.append((stack[-1]["id"], queue[0]["id"]))
+                stack.pop()
+            elif action == Actions.RIGHT:
+                relations.append((queue[0]["id"], stack[-1]["id"]))
+                stack.append(queue.pop(0))
+            else:
+                print("Unknown action.")
+    return sorted(relations)
+
+
+def _calculate_uas(classifier, vectorizer):
+    trees = read_file(files[1])
+    trees = filter_trees(trees)
+    total, tp = 0, 0
+    for tree in trees:
+        tree = [t for t in tree if type(t["id"]) == int]
+        golden = [(node["id"], node["head"]) for node in tree]
+        try:
+            predicted = dep_parse(tree, classifier, vectorizer)
+            tp += len(set(golden).intersection(set(predicted)))
+        except Exception as e:
+            print('Exception {}'.format(e))
+
+        total += len(tree)
+
+    print("Total:", total)
+    print("Correctly defined:", tp)
+    print("UAS:", round(tp / total, 2))
 
 
 if __name__ == "__main__":
     train_labels, train_features = _get_labels_features(files[0])
     test_labels, test_features = _get_labels_features(files[1])
 
-    dict_vect = DictVectorizer()
-    train_features = dict_vect.fit_transform(train_features)
-    test_features = dict_vect.transform(test_features)
+    vectorizer = DictVectorizer()
+    train_features = vectorizer.fit_transform(train_features)
+    test_features = vectorizer.transform(test_features)
 
-    clf_lr = LogisticRegression(random_state=42, solver="sag", multi_class="multinomial", max_iter=1000)
-    clf_lr.fit(train_features, train_labels)
+    classifier = LogisticRegression(random_state=42, solver="sag", multi_class="multinomial", max_iter=1000)
+    # classifier = DecisionTreeClassifier(random_state=42)
+    # classifier = RandomForestClassifier(random_state=42)
+    classifier.fit(train_features, train_labels)
 
-    predicted = clf_lr.predict(test_features)
+    predicted = classifier.predict(test_features)
     print(classification_report(test_labels, predicted))
 
+    _calculate_uas(classifier, vectorizer)
