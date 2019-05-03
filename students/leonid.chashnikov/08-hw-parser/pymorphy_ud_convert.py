@@ -12,6 +12,7 @@ mapping = {"ADJF": "ADJ", "ADJS": "ADJ", "COMP": "ADJ", "PRTF": "ADJ",
            "PRTS": "ADJ", "GRND": "VERB", "NUMR": "NUM", "ADVB": "ADV",
            "NPRO": "PRON", "PRED": "ADV", "PREP": "ADP", "PRCL": "PART"}
 
+
 def normalize_pos(word):
     if word.tag.POS == "CONJ":
         if "coord" in word.tag:

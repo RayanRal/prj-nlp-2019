@@ -1,14 +1,19 @@
 from collections import OrderedDict
 
 from tokenize_uk import tokenize_uk
+
+from pymorphy_ud_convert import normalize_pos
 from read_files import read_file
 from read_files import debug
 from read_files import files
+
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+
+import pymorphy2
 
 
 class Actions:
@@ -128,8 +133,8 @@ def dep_parse(sentence, oracle, vectorizer, log=False):
             features = generate_features(stack, queue)
             action = oracle.predict(vectorizer.transform([features]))[0]
             if log:
-                print("Stack:", [i["form"]+"_"+str(i["id"]) for i in stack])
-                print("Queue:", [i["form"]+"_"+str(i["id"]) for i in queue])
+                print("Stack:", [i["form"] + "_" + str(i["id"]) for i in stack])
+                print("Queue:", [i["form"] + "_" + str(i["id"]) for i in queue])
                 print("Relations:", relations)
                 print(action)
                 print("========================")
@@ -168,16 +173,27 @@ def _calculate_uas(classifier, vectorizer):
     print("UAS:", round(tp / total, 2))
 
 
-def _check_own_sents(classifier, vectorizer):
-    sentences = []
-    for sent in sentences:
-        # tokenize with tokenize-uk
+def _parse_ukrainian_sents(input_sentences):
+    morph = pymorphy2.MorphAnalyzer(lang='uk')
+    parsed_sents = []
+    for sent in input_sentences:
         words = tokenize_uk.tokenize_words(sent)
-        for w in words:
-            # parse with pymorphy
-            # sentence - a list of dicts, with keys 'form', 'lemma', upostag, feats
-            # convert POS with pymorphy_ud_convert.py
-            # pass to dep_parse
+        parsed_sent = []
+        for i, w in enumerate(words):
+            parsed = morph.parse(w)[0]
+            pos = normalize_pos(parsed)
+            # TODO - work with feats
+            parsed_word = dict(id=i, form=w, lemma=parsed.normal_form, upostag=pos, feats=None)
+            parsed_sent.append(parsed_word)
+        parsed_sents.append(parsed_sent)
+    return parsed_sents
+
+
+def _check_own_sents(classifier, vectorizer):
+    input_sentences = ["Я їм яблуко"]
+    parsed_sentences = _parse_ukrainian_sents(input_sentences)
+    for sent in parsed_sentences:
+        dep_parse(sent, classifier, vectorizer, log=True)
 
 
 if __name__ == "__main__":
@@ -197,4 +213,4 @@ if __name__ == "__main__":
     print(classification_report(test_labels, predicted))
 
     _calculate_uas(classifier, vectorizer)
-    _check_own_trees(classifier, vectorizer)
+    _check_own_sents(classifier, vectorizer)
