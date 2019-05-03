@@ -1,0 +1,11 @@
+@Keywords:
+JOB, GROWTH, LOW, PRESIDENT, JANUARY, GAIN, RATE
+
+@Digest:
+The US created fewer jobs than expected in January, but a fall in jobseekers pushed the unemployment rate to its lowest level in three years.
+The job gains mean that President Bush can celebrate - albeit by a very fine margin - a net growth in jobs in the US economy in his first term in office.
+"We are not getting the boost to employment that we would have got given the low value of the dollar and the still relatively low interest rate environment." "The economy is producing a moderate but not a satisfying amount of job growth," said Ken Mayland, president of ClearView Economics.
+
+@Warnings:
+Quantity of words which can be keywords is less then ordered quantity.
+

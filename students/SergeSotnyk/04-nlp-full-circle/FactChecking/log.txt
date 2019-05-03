@@ -1,0 +1,77 @@
+C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/04-nlp-full-circle/FactChecking/poul_works_retriever.py
+Start preparing spacy model
+Spacy model has been prepared
+Cache file 'Poul Anderson.cache' is used.
+Annotated entries number: 41
+Three Hearts and Three Lions
+Tomorrow's Children
+Chain of Logic
+The Man Who Counts
+Tales of the Flying Mountains
+Star Fox
+Welcome
+The High Ones
+Sam Hall
+Three Worlds to Conquer
+Shield
+Un-man
+Tau Zero
+The Star Fox
+The Shield of Time
+The Winter of the World
+The People of the Wind
+The Man who Counts
+High Treason
+A Knight of Ghosts and Shadows
+The Star Fox
+Hrolf Kraki's Saga
+The War of the Gods
+The Long Remembering
+No Truce with Kings
+Call Me Joe
+Three Worlds to Conquer
+The Queen of Air and Darkness
+The Night Face
+Goat Song
+The Corridors of Time
+The High Crusade
+The Only Game in Town
+The Shield of Time
+The Man Who Came Early
+Uncleftish Beholding
+The Shield of Time
+The Sorrow of Odin the Goth
+The Pirate
+Sister Planet
+Delenda Est
+----------------------------------------------------------------
+Found entries number: 15
+Un-man
+un-man
+Tau Zero
+The Star Fox
+The People of the Wind
+The Star Fox
+Hrolf Kraki's Saga
+No Truce with Kings
+Call Me Joe
+The Queen of Air and Darkness
+Goat Song
+The Corridors of Time
+The High Crusade
+The Pirate
+The High Crusade
+================================================================
+FN entries:
+(7623, 7629) - un-man
+(17307, 17323) - The High Crusade
+total_in_gt: 41
+total_in_checked: 15
+tp: 13
+fp: 2
+fn: 28
+precision: 0.8666666666666667
+recall: 0.3170731707317073
+f1: 0.4642857142857143
+
+Process finished with exit code 0

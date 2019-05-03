@@ -1,0 +1,11 @@
+@Keywords:
+ROSNEFT, YUGANSK, YUKOS, SALE, CLAIM, ASSET, MENATEP, UNIT, LOAN
+
+@Digest:
+Yukos unit buyer faces loan claim
+Yukos' owner Menatep Group says it will ask Rosneft to repay a loan that Yugansk had secured on its assets.
+"The pledged assets are with Rosneft, so it will have to pay real money to the creditors to avoid seizure of Yugansk assets," said Moscow-based US lawyer Jamie Firestone, who is not connected to the case.
+
+@Warnings:
+Quantity of words which can be keywords is less then ordered quantity.
+

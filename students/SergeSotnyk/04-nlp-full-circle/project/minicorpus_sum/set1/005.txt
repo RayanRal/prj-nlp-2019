@@ -1,0 +1,11 @@
+@Keywords:
+PERNOD, FIRM, ALLIED, DOMECQ, Allied Domecq, SHARE, SEAGRAM, EURO, WHISKY
+
+@Digest:
+Pernod takeover talk lifts Domecq
+Shares in UK drinks and food firm Allied Domecq have risen on speculation that it could be the target of a takeover by France's Pernod Ricard.
+Last year Pernod tried to buy Glenmorangie, one of Scotland's premier whisky firms, but lost out to luxury goods firm LVMH.
+
+@Warnings:
+Quantity of words which can be keywords is less then ordered quantity.
+

@@ -1,0 +1,13 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX res:  <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp: <http://dbpedia.org/property/>
+SELECT DISTINCT ?book ?year
+WHERE {
+	?uri dbo:author res:J._R._R._Tolkien .
+        OPTIONAL {
+                  ?uri dbp:releaseDate ?year .
+                  } .
+	?uri rdfs:label ?book .
+        FILTER (lang(?book) = 'en')
+}
