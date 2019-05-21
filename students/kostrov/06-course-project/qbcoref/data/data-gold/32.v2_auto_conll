@@ -1,0 +1,134 @@
+#begin document (selectraws/32); part 000
+
+selectraws/32	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/32	0	1	writer	NN	*)	-	-	-	-	*	1)
+selectraws/32	0	2	depicted	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/32	0	4	group	NN	*)	-	-	-	-	*	-
+selectraws/32	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	6	samurai	NN	(NP*	-	-	-	-	*	-
+selectraws/32	0	7	battle	NN	*)))	-	-	-	-	*	-
+selectraws/32	0	8	against	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	9	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/32	0	10	imperial	JJ	*	-	-	-	-	*	-
+selectraws/32	0	11	army	NN	*)	-	-	-	-	*	-
+selectraws/32	0	12	with	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	13	aid	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/32	0	14	from	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/32	0	16	One	CD	*)	-	-	-	-	*	-
+selectraws/32	0	17	Who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/32	0	18	Destroys	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/32	0	19	in	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	20	his	PRP$	(NP(NP*	-	-	-	-	*	(2|(1)
+selectraws/32	0	21	novel	NN	*)	-	-	-	-	*	2)
+selectraws/32	0	22	,	,	*	-	-	-	-	*	-
+selectraws/32	0	23	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/32	0	24	Game	NNP	*)	-	-	-	-	*	-
+selectraws/32	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	26	Contemporaneity	NNP	(NP*)))))))))))))))	-	-	-	-	*	2)
+selectraws/32	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/32	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(3
+selectraws/32	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/32	0	3	novels	NNS	*)))	-	-	-	-	*	3)
+selectraws/32	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/32	0	5	narrated	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	6	by	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	7	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/32	0	8	liver	NN	*	-	-	-	-	*	-
+selectraws/32	0	9	cancer	NN	*	-	-	-	-	*	-
+selectraws/32	0	10	patient	NN	*)	-	-	-	-	*	4)
+selectraws/32	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/32	0	12	recounts	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/32	0	13	Happy	JJ	(NP*	-	-	-	-	*	-
+selectraws/32	0	14	Days	NNS	*)	-	-	-	-	*	-
+selectraws/32	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	16	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/32	0	17	work	NN	*)	-	-	-	-	*	3)
+selectraws/32	0	18	entitled	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	19	The	DT	(NP*	-	-	-	-	*	(3
+selectraws/32	0	20	Day	NN	*)	-	-	-	-	*	-
+selectraws/32	0	21	He	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws/32	0	22	Himself	VBP	(VP*	-	-	-	-	*	-
+selectraws/32	0	23	Shall	NNP	(S(NP*	-	-	-	-	*	-
+selectraws/32	0	24	Wipe	NNP	*)	-	-	-	-	*	-
+selectraws/32	0	25	My	PRP$	(NP*	-	-	-	-	*	-
+selectraws/32	0	26	Tears	NNPS	*	-	-	-	-	*	-
+selectraws/32	0	27	Way	NN	*))))))))))))))	-	-	-	-	*	3)
+selectraws/32	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/32	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/32	0	1	writer	NN	*)	-	-	-	-	*	1)
+selectraws/32	0	2	depicted	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	3	Harelip	NNP	(NP(NP*	-	-	-	-	*	(5)
+selectraws/32	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws/32	0	5	encounter	NN	*)	-	-	-	-	*	-
+selectraws/32	0	6	with	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	7	an	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/32	0	8	African-American	JJ	*	-	-	-	-	*	-
+selectraws/32	0	9	POW	NN	*)	-	-	-	-	*	6)
+selectraws/32	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	11	The	DT	(NP*	-	-	-	-	*	(7
+selectraws/32	0	12	Catch	NNP	*)))))	-	-	-	-	*	7)
+selectraws/32	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/32	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(9
+selectraws/32	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws/32	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	3	another	DT	(NP(NP*)	-	-	-	-	*	(8
+selectraws/32	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	5	his	PRP$	(NP*	-	-	-	-	*	-
+selectraws/32	0	6	works	NNS	*)))))	-	-	-	-	*	8)|9)
+selectraws/32	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/32	0	8	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws/32	0	9	teacher	NN	*)	-	-	-	-	*	-
+selectraws/32	0	10	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	11	Bird	NNP	(S(NP(NP*)	-	-	-	-	*	(9)|9)
+selectraws/32	0	12	,	,	*	-	-	-	-	*	-
+selectraws/32	0	13	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws/32	0	14	son	NN	*)	-	-	-	-	*	-
+selectraws/32	0	15	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/32	0	16	born	VBN	(VP*	-	-	-	-	*	-
+selectraws/32	0	17	with	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws/32	0	19	brain	NN	*	-	-	-	-	*	-
+selectraws/32	0	20	hernia	NN	*))	-	-	-	-	*	-
+selectraws/32	0	21	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/32	0	22	another	DT	(S(NP(NP*)	-	-	-	-	*	(10
+selectraws/32	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	24	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/32	0	25	works	NNS	*)))	-	-	-	-	*	10)
+selectraws/32	0	26	follows	VBZ	(VP*	-	-	-	-	*	-
+selectraws/32	0	27	brothers	NNS	(NP*	-	-	-	-	*	(11)
+selectraws/32	0	28	Matsu	NNP	*	-	-	-	-	(LOCATION)	(11|(12)
+selectraws/32	0	29	and	CC	*	-	-	-	-	*	-
+selectraws/32	0	30	Takashi	NNP	*)))))))))))))	-	-	-	-	(PERSON)	(13)|11)
+selectraws/32	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/32	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/32	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/32	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/32	0	3	,	,	*	-	-	-	-	*	-
+selectraws/32	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/32	0	5	this	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/32	0	6	Japanese	JJ	*	-	-	-	-	*	(1
+selectraws/32	0	7	writer	NN	*)	-	-	-	-	*	-
+selectraws/32	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/32	0	9	A	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws/32	0	10	Personal	NNP	*	-	-	-	-	*	-
+selectraws/32	0	11	Matter	NNP	*)	-	-	-	-	*	8)
+selectraws/32	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/32	0	13	The	DT	(NP*	-	-	-	-	*	(10
+selectraws/32	0	14	Silent	NNP	*	-	-	-	-	*	-
+selectraws/32	0	15	Cry	NNP	*)))))	-	-	-	-	*	1)|10)
+selectraws/32	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

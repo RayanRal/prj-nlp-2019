@@ -1,0 +1,157 @@
+#begin document (selectraws1/37); part 000
+
+selectraws1/37	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/37	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/37	0	4	play	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/37	0	5	attributes	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/37	0	6	Glesne	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(6)
+selectraws1/37	0	7	's	POS	*)	-	-	-	-	*	-
+selectraws1/37	0	8	deer-hunting	JJ	*	-	-	-	-	*	-
+selectraws1/37	0	9	feats	NNS	*)	-	-	-	-	*	-
+selectraws1/37	0	10	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/37	0	11	himself	PRP	(NP*)))	-	-	-	-	*	(1)
+selectraws1/37	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/37	0	14	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/37	0	15	a	DT	(NP*	-	-	-	-	*	(8
+selectraws1/37	0	16	story	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	17	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	18	trapping	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	19	the	DT	(NP*	-	-	-	-	*	(7
+selectraws1/37	0	20	Devil	NNP	*)	-	-	-	-	*	7)
+selectraws1/37	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/37	0	23	nut	NN	*)	-	-	-	-	*	8)
+selectraws1/37	0	24	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	25	explain	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	26	why	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/37	0	27	he	PRP	(S(NP(NP*)	-	-	-	-	*	(1)
+selectraws1/37	0	28	and	CC	*	-	-	-	-	*	-
+selectraws1/37	0	29	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/37	0	30	blacksmith	NN	*	-	-	-	-	*	9)
+selectraws1/37	0	31	Aslak	NNP	*))	-	-	-	-	*	(9)
+selectraws1/37	0	32	do	VBP	(VP*	-	-	-	-	*	-
+selectraws1/37	0	33	n't	RB	*	-	-	-	-	*	-
+selectraws1/37	0	34	like	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	35	each	DT	(NP*	-	-	-	-	*	-
+selectraws1/37	0	36	other	JJ	*))))))))))))))))	-	-	-	-	*	-
+selectraws1/37	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/37	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/37	0	1	protagonist	NN	*)	-	-	-	-	*	1)
+selectraws1/37	0	2	impregnates	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/37	0	3	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/37	0	4	girl	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	5	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	6	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/37	0	7	green	JJ	*	-	-	-	-	*	-
+selectraws1/37	0	8	dress	NN	*)))	-	-	-	-	*	10)
+selectraws1/37	0	9	merely	RB	(PP(ADVP*)	-	-	-	-	*	-
+selectraws1/37	0	10	by	IN	*	-	-	-	-	*	-
+selectraws1/37	0	11	desiring	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	13	marry	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	14	her	PRP	(NP*))))))))	-	-	-	-	*	(10)
+selectraws1/37	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/37	0	17	encounters	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/37	0	18	the	DT	(NP*	-	-	-	-	*	(11
+selectraws1/37	0	19	Byg	NNP	*)	-	-	-	-	*	11)
+selectraws1/37	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	21	Act	NNP	(NP*	-	-	-	-	*	(12
+selectraws1/37	0	22	three	CD	*))))	-	-	-	-	*	12)
+selectraws1/37	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/37	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/37	0	1	this	DT	(NP(NP*	-	-	-	-	*	(1|(13
+selectraws1/37	0	2	play	NN	*	-	-	-	-	*	1)
+selectraws1/37	0	3	's	POS	*)	-	-	-	-	*	-
+selectraws1/37	0	4	final	JJ	*	-	-	-	-	*	-
+selectraws1/37	0	5	act	NN	*))	-	-	-	-	*	13)
+selectraws1/37	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	7	a	DT	(NP*	-	-	-	-	*	(14
+selectraws1/37	0	8	button-moulder	NN	*)	-	-	-	-	*	14)
+selectraws1/37	0	9	comes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/37	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	11	collect	VB	(VP(VP*)	-	-	-	-	*	-
+selectraws1/37	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/37	0	13	melt	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	14	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/37	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/37	0	16	soul	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	18	this	DT	(NP(NP(NP*	-	-	-	-	*	(1|(1
+selectraws1/37	0	19	play	NN	*	-	-	-	-	*	1)
+selectraws1/37	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws1/37	0	21	title	NN	*	-	-	-	-	*	-
+selectraws1/37	0	22	character	NN	*)	-	-	-	-	*	1)
+selectraws1/37	0	23	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	24	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/37	0	25	tries	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	26	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	27	seduce	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	28	Anitra	NNP	(NP*)	-	-	-	-	*	(15)
+selectraws1/37	0	29	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	30	Morocco	NNP	(NP*))))))))))))))))	-	-	-	-	(LOCATION)	-
+selectraws1/37	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/37	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/37	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/37	0	2	character	NN	*)	-	-	-	-	*	1)
+selectraws1/37	0	3	reunites	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/37	0	4	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	5	Solveig	NNP	(NP*))	-	-	-	-	(PERSON)	(16)
+selectraws1/37	0	6	before	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	7	returning	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	8	home	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/37	0	9	before	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/37	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	11	say	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	12	farwell	NN	(NP*)	-	-	-	-	*	-
+selectraws1/37	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/37	0	14	his	PRP$	(NP(NP*	-	-	-	-	*	(17|(1)
+selectraws1/37	0	15	dying	VBG	*	-	-	-	-	*	-
+selectraws1/37	0	16	mother	NN	*)	-	-	-	-	*	17)
+selectraws1/37	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	18	se	FW	(NP*))))))))))	-	-	-	-	*	(17)
+selectraws1/37	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/37	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/37	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/37	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/37	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/37	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/37	0	6	verse	NN	*	-	-	-	-	*	-
+selectraws1/37	0	7	drama	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	9	Henrik	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/37	0	10	Ibsen	NNP	*)))	-	-	-	-	*)	4)
+selectraws1/37	0	11	featuring	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	12	a	DT	(NP(NP*	-	-	-	-	*	(18
+selectraws1/37	0	13	scene	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/37	0	16	hall	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	18	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/37	0	19	Mountain	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/37	0	20	King	NNP	*)	-	-	-	-	*)	5)|1)|18)
+selectraws1/37	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/37	0	22	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/37	0	23	inspired	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/37	0	24	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/37	0	25	suite	NN	*)	-	-	-	-	*	-
+selectraws1/37	0	26	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/37	0	27	Grieg	NNP	(NP*))))))))))))))	-	-	-	-	(ORGANIZATION)	(3)|2)
+selectraws1/37	0	28	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

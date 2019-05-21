@@ -1,0 +1,5 @@
+select distinct *
+where { 
+    ?person a dbo:President .
+} 
+limit 100

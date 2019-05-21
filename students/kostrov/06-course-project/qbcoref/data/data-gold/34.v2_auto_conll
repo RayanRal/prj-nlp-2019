@@ -1,0 +1,127 @@
+#begin document (selectraws/34); part 000
+
+selectraws/34	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws/34	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws/34	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/34	0	4	work	NN	*)))	-	-	-	-	*	2)|1)
+selectraws/34	0	5	bemoans	VBZ	(VP*	-	-	-	-	*	-
+selectraws/34	0	6	these	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/34	0	7	strange	JJ	*	-	-	-	-	*	-
+selectraws/34	0	8	flies	VBZ	*)	-	-	-	-	*	-
+selectraws/34	0	9	,	,	*	-	-	-	-	*	-
+selectraws/34	0	10	these	DT	(NP*	-	-	-	-	*	-
+selectraws/34	0	11	fashion-mongers	NNS	*)	-	-	-	-	*	-
+selectraws/34	0	12	,	,	*	-	-	-	-	*	-
+selectraws/34	0	13	these	DT	(NP*	-	-	-	-	*	-
+selectraws/34	0	14	perdona	NN	*	-	-	-	-	*	-
+selectraws/34	0	15	-	:	*	-	-	-	-	*	-
+selectraws/34	0	16	mi	NN	*	-	-	-	-	*	-
+selectraws/34	0	17	's	POS	*)))	-	-	-	-	*	-
+selectraws/34	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/34	0	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/34	0	1	that	DT	(S(NP*	-	-	-	-	*	(2
+selectraws/34	0	2	character	NN	*)	-	-	-	-	*	2)
+selectraws/34	0	3	dies	VBZ	(VP*)))	-	-	-	-	*	-
+selectraws/34	0	4	,	,	*	-	-	-	-	*	-
+selectraws/34	0	5	another	DT	(NP*)	-	-	-	-	*	(3)
+selectraws/34	0	6	exclaims	VBZ	(VP*	-	-	-	-	*	-
+selectraws/34	0	7	fire-eyed	JJ	(S(NP*	-	-	-	-	*	-
+selectraws/34	0	8	fury	NN	*)	-	-	-	-	*	-
+selectraws/34	0	9	be	VB	(VP*	-	-	-	-	*	-
+selectraws/34	0	10	my	PRP$	(NP*	-	-	-	-	*	-
+selectraws/34	0	11	conduct	NN	*)	-	-	-	-	*	-
+selectraws/34	0	12	now	RB	(ADVP*))))	-	-	-	-	*	-
+selectraws/34	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/34	0	0	Balthasar	NNP	(TOP(S(NP*)	-	-	-	-	*	(5)
+selectraws/34	0	1	unwittingly	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/34	0	2	provided	VBD	(VP*	-	-	-	-	*	-
+selectraws/34	0	3	that	DT	(NP*	-	-	-	-	*	(3
+selectraws/34	0	4	character	NN	*)	-	-	-	-	*	3)
+selectraws/34	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	6	false	JJ	(NP*	-	-	-	-	*	-
+selectraws/34	0	7	information	NN	*))	-	-	-	-	*	-
+selectraws/34	0	8	,	,	*	-	-	-	-	*	-
+selectraws/34	0	9	causing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/34	0	10	him	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws/34	0	11	to	TO	(VP*	-	-	-	-	*	-
+selectraws/34	0	12	purchase	VB	(VP*	-	-	-	-	*	-
+selectraws/34	0	13	poison	NN	(NP*)	-	-	-	-	*	-
+selectraws/34	0	14	from	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	15	an	DT	(NP*	-	-	-	-	*	-
+selectraws/34	0	16	apothecary	NN	*))))))))	-	-	-	-	*	-
+selectraws/34	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/34	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/34	0	1	act	NN	(NP*	-	-	-	-	*	-
+selectraws/34	0	2	one	CD	*))	-	-	-	-	*	-
+selectraws/34	0	3	,	,	*	-	-	-	-	*	-
+selectraws/34	0	4	a	DT	(NP*	-	-	-	-	*	(2
+selectraws/34	0	5	character	NN	*)	-	-	-	-	*	2)
+selectraws/34	0	6	delivers	VBZ	(VP*	-	-	-	-	*	-
+selectraws/34	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/34	0	8	speech	NN	*)	-	-	-	-	*	-
+selectraws/34	0	9	about	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	10	Queen	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws/34	0	11	Mab	NNP	*)))	-	-	-	-	*)	6)
+selectraws/34	0	12	on	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	13	the	DT	(NP*	-	-	-	-	*	-
+selectraws/34	0	14	way	NN	*))	-	-	-	-	*	-
+selectraws/34	0	15	to	TO	(PP*	-	-	-	-	*	-
+selectraws/34	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws/34	0	17	ball	NN	*)))	-	-	-	-	*	-
+selectraws/34	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/34	0	0	The	DT	(TOP(S(NP(NP(NP*	-	-	-	-	*	(3
+selectraws/34	0	1	title	NN	*	-	-	-	-	*	-
+selectraws/34	0	2	character	NN	*	-	-	-	-	*	3)
+selectraws/34	0	3	's	POS	*)	-	-	-	-	*	-
+selectraws/34	0	4	refusal	NN	*	-	-	-	-	*	-
+selectraws/34	0	5	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/34	0	6	duel	VB	(VP*	-	-	-	-	*	-
+selectraws/34	0	7	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/34	0	8	prince	NN	*)	-	-	-	-	*	-
+selectraws/34	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	10	cats	NNS	(NP*)))))))	-	-	-	-	*	4)
+selectraws/34	0	11	,	,	*	-	-	-	-	*	-
+selectraws/34	0	12	Tybalt	NNP	(NP*)	-	-	-	-	(LOCATION)	(4)
+selectraws/34	0	13	,	,	*)	-	-	-	-	*	-
+selectraws/34	0	14	leads	VBZ	(VP*	-	-	-	-	*	-
+selectraws/34	0	15	to	TO	(PP*	-	-	-	-	*	-
+selectraws/34	0	16	Mercutio	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(4)
+selectraws/34	0	17	's	POS	*)	-	-	-	-	*	-
+selectraws/34	0	18	death	NN	*)))	-	-	-	-	*	-
+selectraws/34	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/34	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/34	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/34	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/34	0	3	,	,	*	-	-	-	-	*	-
+selectraws/34	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/34	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/34	0	6	Shakespeare	NN	*	-	-	-	-	(ORGANIZATION)	(7)
+selectraws/34	0	7	play	NN	*)	-	-	-	-	*	1)
+selectraws/34	0	8	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/34	0	9	ends	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/34	0	10	with	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/34	0	12	suicide	NN	*)	-	-	-	-	*	-
+selectraws/34	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/34	0	14	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/34	0	15	title	NN	*	-	-	-	-	*	-
+selectraws/34	0	16	''	''	*	-	-	-	-	*	-
+selectraws/34	0	17	star-crossed	JJ	*	-	-	-	-	*	-
+selectraws/34	0	18	lovers	NNS	*)))))))))	-	-	-	-	*	-
+selectraws/34	0	19	.	.	*	-	-	-	-	*	-
+selectraws/34	0	20	''	''	*))	-	-	-	-	*	1)
+
+
+#end document
+

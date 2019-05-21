@@ -1,0 +1,157 @@
+#begin document (selectraws1/38); part 000
+
+selectraws1/38	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/38	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/38	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/38	0	3	Herbert	NNP	(NP*)	-	-	-	-	(PERSON)	(4)
+selectraws1/38	0	4	falls	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/38	0	5	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	6	love	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/38	0	7	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	9	figurehead	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	12	ship	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	13	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	14	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/38	0	15	Maritime	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/38	0	16	Museum	NNP	*)))))))))	-	-	-	-	*)	-
+selectraws1/38	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/38	0	18	and	CC	*	-	-	-	-	*	-
+selectraws1/38	0	19	impales	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/38	0	20	himself	PRP	(NP*)	-	-	-	-	*	(4)
+selectraws1/38	0	21	while	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	22	trying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	24	make	VB	(VP*	-	-	-	-	*	-
+selectraws1/38	0	25	love	NN	(NP*)	-	-	-	-	*	-
+selectraws1/38	0	26	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/38	0	27	it	PRP	(NP*))))))))))	-	-	-	-	*	-
+selectraws1/38	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/38	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(3
+selectraws1/38	0	1	main	JJ	*	-	-	-	-	*	-
+selectraws1/38	0	2	character	NN	*)	-	-	-	-	*	3)
+selectraws1/38	0	3	helps	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/38	0	4	Jan	NNP	(S(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/38	0	5	Bronski	NNP	*)	-	-	-	-	*)	5)
+selectraws1/38	0	6	steal	VB	(VP*	-	-	-	-	*	-
+selectraws1/38	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	8	necklace	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	9	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/38	0	11	jewelry	NN	*	-	-	-	-	*	-
+selectraws1/38	0	12	store	NN	*))	-	-	-	-	*	-
+selectraws1/38	0	13	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	14	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws1/38	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	16	his	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws1/38	0	17	special	JJ	*	-	-	-	-	*	-
+selectraws1/38	0	18	skills	NNS	*))))))))	-	-	-	-	*	-
+selectraws1/38	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/38	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/38	0	1	one	CD	(NP(NP*	-	-	-	-	*	(6
+selectraws1/38	0	2	scene	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	3	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/38	0	5	novel	NN	*))))	-	-	-	-	*	6)|1)
+selectraws1/38	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/38	0	7	the	DT	(NP(NP*	-	-	-	-	*	(3|(7
+selectraws1/38	0	8	protagonist	NN	*	-	-	-	-	*	3)
+selectraws1/38	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/38	0	10	mother	NN	*	-	-	-	-	*	7)
+selectraws1/38	0	11	witnesses	NNS	*)	-	-	-	-	*	-
+selectraws1/38	0	12	eels	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/38	0	13	being	VBG	(VP*	-	-	-	-	*	-
+selectraws1/38	0	14	pulled	VBN	(VP*	-	-	-	-	*	-
+selectraws1/38	0	15	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	17	head	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	19	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/38	0	20	dead	JJ	*	-	-	-	-	*	-
+selectraws1/38	0	21	horse	NN	*)))))))	-	-	-	-	*	-
+selectraws1/38	0	22	and	CC	*	-	-	-	-	*	-
+selectraws1/38	0	23	dies	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/38	0	24	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	25	confining	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	26	herself	PRP	(NP*)	-	-	-	-	*	(7)
+selectraws1/38	0	27	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/38	0	28	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	29	diet	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	30	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	31	fish	NN	(NP*)))))))))	-	-	-	-	*	-
+selectraws1/38	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/38	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/38	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/38	0	4	novel	NN	*)))	-	-	-	-	*	1)|3)
+selectraws1/38	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/38	0	6	accused	VBN	(VP*	-	-	-	-	*	-
+selectraws1/38	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	8	killing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	9	Sister	NNP	(NP*	-	-	-	-	*	(8
+selectraws1/38	0	10	Dorothea	NNP	*))))))	-	-	-	-	(PERSON)	8)
+selectraws1/38	0	11	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/38	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/38	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/38	0	4	novel	NN	*)))	-	-	-	-	*	1)|3)
+selectraws1/38	0	5	has	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/38	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	7	scream	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/38	0	9	can	MD	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	10	shatter	VB	(VP*	-	-	-	-	*	-
+selectraws1/38	0	11	glass	NN	(NP*)))))))	-	-	-	-	*	-
+selectraws1/38	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/38	0	13	decides	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/38	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	15	stop	VB	(VP*	-	-	-	-	*	-
+selectraws1/38	0	16	growing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/38	0	17	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/38	0	19	age	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	21	three	CD	(NP*)))))))))))	-	-	-	-	*	-
+selectraws1/38	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/38	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/38	0	1	first	JJ	*	-	-	-	-	*	-
+selectraws1/38	0	2	novel	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	4	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/38	0	5	Danzig	NNP	*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/38	0	6	Trilogy	NNP	*)))	-	-	-	-	*)	1)|2)
+selectraws1/38	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/38	0	8	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	9	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/38	0	10	points	NNS	*))	-	-	-	-	*	-
+selectraws1/38	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/38	0	12	identify	VBP	(VP*	-	-	-	-	*	-
+selectraws1/38	0	13	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/38	0	14	novel	NN	*)	-	-	-	-	*	-
+selectraws1/38	0	15	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	16	Oskar	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/38	0	17	Matzerath	NNP	*)	-	-	-	-	*)	1)|3)
+selectraws1/38	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/38	0	19	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/38	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/38	0	21	Gunter	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/38	0	22	Grass	NNP	*)))))))	-	-	-	-	*)	4)
+selectraws1/38	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

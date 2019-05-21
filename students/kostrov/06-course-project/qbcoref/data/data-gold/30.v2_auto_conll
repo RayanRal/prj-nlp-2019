@@ -1,0 +1,126 @@
+#begin document (selectraws/30); part 000
+
+selectraws/30	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/30	0	1	grave	NN	*)	-	-	-	-	*	-
+selectraws/30	0	2	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/30	0	3	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/30	0	4	only	RB	(ADJP(QP*	-	-	-	-	*	-
+selectraws/30	0	5	six	CD	*)	-	-	-	-	*	-
+selectraws/30	0	6	feet	NNS	*	-	-	-	-	*	-
+selectraws/30	0	7	long	JJ	*	-	-	-	-	*	-
+selectraws/30	0	8	ultimately	RB	(ADVP*))))))	-	-	-	-	*	-
+selectraws/30	0	9	turns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/30	0	10	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws/30	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/30	0	12	answer	VB	(VP*	-	-	-	-	*	-
+selectraws/30	0	13	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/30	0	14	title	NN	*	-	-	-	-	*	-
+selectraws/30	0	15	question	NN	*)	-	-	-	-	*	-
+selectraws/30	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	17	this	DT	(NP(NP*	-	-	-	-	*	(1|(4
+selectraws/30	0	18	authors	NNS	*	-	-	-	-	*	1)
+selectraws/30	0	19	short	JJ	*	-	-	-	-	*	-
+selectraws/30	0	20	story	NN	*)	-	-	-	-	*	4)
+selectraws/30	0	21	How	WRB	(SBAR(WHADVP*	-	-	-	-	*	(4
+selectraws/30	0	22	Much	RB	*)	-	-	-	-	*	-
+selectraws/30	0	23	Land	NNP	(S(NP*)	-	-	-	-	*	-
+selectraws/30	0	24	Does	VBZ	(VP*	-	-	-	-	*	-
+selectraws/30	0	25	a	DT	(NP*	-	-	-	-	*	-
+selectraws/30	0	26	Man	NN	*	-	-	-	-	*	-
+selectraws/30	0	27	Need	NN	*)))))))))))	-	-	-	-	*	4)
+selectraws/30	0	28	?	.	*))	-	-	-	-	*	-
+
+
+selectraws/30	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws/30	0	1	man	NN	*)	-	-	-	-	*	5)
+selectraws/30	0	2	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/30	0	3	Olenin	NNP	(S(NP*))))	-	-	-	-	(PERSON)	(5)
+selectraws/30	0	4	leaves	VBZ	(VP*	-	-	-	-	*	-
+selectraws/30	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/30	0	7	Caucasus	NNP	*)	-	-	-	-	(LOCATION)	-
+selectraws/30	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(6|(1)
+selectraws/30	0	10	novel	NN	*)	-	-	-	-	*	6)
+selectraws/30	0	11	The	DT	(NP*	-	-	-	-	*	(6
+selectraws/30	0	12	Cossacks	NNPS	*))))))	-	-	-	-	*	6)
+selectraws/30	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/30	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/30	0	1	another	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws/30	0	2	work	NN	*)	-	-	-	-	*	-
+selectraws/30	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/30	0	5	author	NN	*))))	-	-	-	-	*	1)|9)
+selectraws/30	0	6	,	,	*	-	-	-	-	*	-
+selectraws/30	0	7	the	DT	(NP*	-	-	-	-	*	(10
+selectraws/30	0	8	title	NN	*	-	-	-	-	*	-
+selectraws/30	0	9	civil	JJ	*	-	-	-	-	*	-
+selectraws/30	0	10	servant	NN	*)	-	-	-	-	*	10)
+selectraws/30	0	11	reflects	VBZ	(VP*	-	-	-	-	*	-
+selectraws/30	0	12	back	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/30	0	13	on	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	14	his	PRP$	(NP*	-	-	-	-	*	(10)
+selectraws/30	0	15	life	NN	*))	-	-	-	-	*	-
+selectraws/30	0	16	after	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	17	suffering	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/30	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/30	0	19	fatal	JJ	*	-	-	-	-	*	-
+selectraws/30	0	20	fall	NN	*)	-	-	-	-	*	-
+selectraws/30	0	21	installing	VBG	(VP*	-	-	-	-	*	-
+selectraws/30	0	22	curtains	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/30	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	24	his	PRP$	(NP*	-	-	-	-	*	(10)
+selectraws/30	0	25	apartment	NN	*)))))))))	-	-	-	-	*	-
+selectraws/30	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/30	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/30	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/30	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	3	The	DT	(NP*	-	-	-	-	*	(9
+selectraws/30	0	4	Death	NNP	(NAC(NAC*	-	-	-	-	*	-
+selectraws/30	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	6	Ivan	NNP	(NP*)))	-	-	-	-	*	(10
+selectraws/30	0	7	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/30	0	8	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/30	0	9	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/30	0	10	Ilyich	NNP	*)))	-	-	-	-	(PERSON)	9)|1)|10)
+selectraws/30	0	11	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/30	0	12	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/30	0	13	work	NN	*)	-	-	-	-	*	2)
+selectraws/30	0	14	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/30	0	15	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/30	0	16	the	DT	(S(NP(NP*	-	-	-	-	*	(7
+selectraws/30	0	17	lover	NN	*)	-	-	-	-	*	-
+selectraws/30	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	19	Count	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(8
+selectraws/30	0	20	Vronsky	NNP	*)))	-	-	-	-	*)	8)|7)
+selectraws/30	0	21	commits	VBZ	(VP*	-	-	-	-	*	-
+selectraws/30	0	22	suicide	NN	(NP*)	-	-	-	-	*	-
+selectraws/30	0	23	on	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	24	a	DT	(NP*	-	-	-	-	*	-
+selectraws/30	0	25	railway	NN	*)))))))	-	-	-	-	*	-
+selectraws/30	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/30	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/30	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/30	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/30	0	3	,	,	*	-	-	-	-	*	-
+selectraws/30	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/30	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/30	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/30	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/30	0	8	Anna	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws/30	0	9	Karenina	NNP	*	-	-	-	-	*)	2)
+selectraws/30	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/30	0	11	War	NNP	*)	-	-	-	-	*	(3
+selectraws/30	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/30	0	13	Peace	NNP	*)))	-	-	-	-	*	3)|1)
+selectraws/30	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

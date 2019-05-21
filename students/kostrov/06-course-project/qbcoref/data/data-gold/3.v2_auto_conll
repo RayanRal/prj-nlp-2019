@@ -1,0 +1,132 @@
+#begin document (selectraws1/3); part 000
+
+selectraws1/3	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/3	0	1	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/3	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/3	0	3	a	DT	(SBAR(S(NP(NP*	-	-	-	-	*	(2
+selectraws1/3	0	4	long	JJ	*	-	-	-	-	*	-
+selectraws1/3	0	5	autobiographical	JJ	*	-	-	-	-	*	-
+selectraws1/3	0	6	poem	NN	*)	-	-	-	-	*	2)
+selectraws1/3	0	7	involving	VBG	(VP*	-	-	-	-	*	-
+selectraws1/3	0	8	an	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/3	0	9	ascent	NN	*)	-	-	-	-	*	-
+selectraws1/3	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	11	Mount	NNP	(NP*	-	-	-	-	(LOCATION*	-
+selectraws1/3	0	12	Snowdon	NNP	*)))	-	-	-	-	*)	-
+selectraws1/3	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/3	0	14	as	RB	(CONJP*	-	-	-	-	*	-
+selectraws1/3	0	15	well	RB	*	-	-	-	-	*	-
+selectraws1/3	0	16	as	IN	*)	-	-	-	-	*	-
+selectraws1/3	0	17	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/3	0	18	poem	NN	*)	-	-	-	-	*	4)
+selectraws1/3	0	19	asserting	VBG	(VP*	-	-	-	-	*	-
+selectraws1/3	0	20	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	21	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/3	0	22	child	NN	*))))))	-	-	-	-	*	-
+selectraws1/3	0	23	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/3	0	24	father	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/3	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	26	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/3	0	27	man	NN	*)))))))	-	-	-	-	*	-
+selectraws1/3	0	28	.	.	*	-	-	-	-	*	-
+selectraws1/3	0	29	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/3	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(1)
+selectraws1/3	0	1	poems	NNS	*	-	-	-	-	*	-
+selectraws1/3	0	2	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	3	Strange	JJ	(S(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/3	0	4	fits	NNS	*)	-	-	-	-	*	-
+selectraws1/3	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	6	passion	NN	(NP*)))	-	-	-	-	*	-
+selectraws1/3	0	7	have	VB	(VP*	-	-	-	-	*	-
+selectraws1/3	0	8	I	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/3	0	9	known	VBN	(ADJP*)	-	-	-	-	*	5)
+selectraws1/3	0	10	''	''	*)))	-	-	-	-	*	-
+selectraws1/3	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/3	0	12	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	13	A	DT	(S(NP*	-	-	-	-	*	(6
+selectraws1/3	0	14	slumber	NN	*)	-	-	-	-	*	-
+selectraws1/3	0	15	did	VBD	(VP*	-	-	-	-	*	-
+selectraws1/3	0	16	my	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/3	0	17	spirit	NN	*	-	-	-	-	*	-
+selectraws1/3	0	18	seal	NN	*)))	-	-	-	-	*	6)
+selectraws1/3	0	19	''	''	*))	-	-	-	-	*	-
+selectraws1/3	0	20	were	VBD	(VP*	-	-	-	-	*	-
+selectraws1/3	0	21	dedicated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/3	0	22	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/3	0	23	Lucy	NNP	(NP*))))	-	-	-	-	(PERSON)	(7)
+selectraws1/3	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/3	0	0	This	DT	(TOP(S(S(NP(NP(NP(NP*	-	-	-	-	*	(1
+selectraws1/3	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/3	0	2	of	IN	(PP*)	-	-	-	-	*	-
+selectraws1/3	0	3	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/3	0	4	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/3	0	5	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/3	0	6	''	''	*)	-	-	-	-	*	-
+selectraws1/3	0	7	Ode	NNP	(NP(NP*)	-	-	-	-	*	(8
+selectraws1/3	0	8	:	:	*	-	-	-	-	*	-
+selectraws1/3	0	9	Intimations	NNP	(NP*)))	-	-	-	-	*	-
+selectraws1/3	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	11	Immortality	NNP	(NP*))	-	-	-	-	*	8)
+selectraws1/3	0	12	''	''	*)	-	-	-	-	*	1)
+selectraws1/3	0	13	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/3	0	14	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/3	0	15	poem	JJ	*	-	-	-	-	*	-
+selectraws1/3	0	16	inspired	VBN	(VP*	-	-	-	-	*	-
+selectraws1/3	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	18	a	FW	(NP*)))	-	-	-	-	*	-
+selectraws1/3	0	19	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	20	host	NN	*)	-	-	-	-	*	-
+selectraws1/3	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	22	golden	JJ	(NP*	-	-	-	-	*	-
+selectraws1/3	0	23	daffodils	NNS	*)))))	-	-	-	-	*	-
+selectraws1/3	0	24	,	,	*	-	-	-	-	*	-
+selectraws1/3	0	25	''	''	*	-	-	-	-	*	9)
+selectraws1/3	0	26	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	27	I	PRP	(NP*)	-	-	-	-	*	(9
+selectraws1/3	0	28	Wandered	VBD	(VP*	-	-	-	-	*	-
+selectraws1/3	0	29	Lonely	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/3	0	30	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	31	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/3	0	32	Cloud	NNP	(NX(NX*)	-	-	-	-	*	9)
+selectraws1/3	0	33	,	,	*	-	-	-	-	*	-
+selectraws1/3	0	34	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	35	and	CC	*	-	-	-	-	*	-
+selectraws1/3	0	36	co-wrote	JJ	(NX*	-	-	-	-	*	-
+selectraws1/3	0	37	Lyrical	NNP	*	-	-	-	-	*	(11
+selectraws1/3	0	38	Ballads	NNPS	*)))	-	-	-	-	*	11)
+selectraws1/3	0	39	along	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	40	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	41	Samuel	NNP	(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/3	0	42	Taylor	NNP	*	-	-	-	-	*	-
+selectraws1/3	0	43	Coleridge	NNP	*))))))	-	-	-	-	*)	10)
+selectraws1/3	0	44	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/3	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/3	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/3	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/3	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/3	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/3	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/3	0	6	English	JJ	*	-	-	-	-	*	-
+selectraws1/3	0	7	Romantic	JJ	*	-	-	-	-	*	-
+selectraws1/3	0	8	poet	NN	*)	-	-	-	-	*	-
+selectraws1/3	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/3	0	10	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	11	The	NNP	(NP(NP*	-	-	-	-	*	(2
+selectraws1/3	0	12	Prelude	NNP	*	-	-	-	-	*	2)
+selectraws1/3	0	13	''	''	*	-	-	-	-	*	-
+selectraws1/3	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/3	0	15	''	''	*)	-	-	-	-	*	-
+selectraws1/3	0	16	Tintern	NNP	*	-	-	-	-	*	(3
+selectraws1/3	0	17	Abbey	NNP	*)))	-	-	-	-	*	3)
+selectraws1/3	0	18	.	.	*	-	-	-	-	*	-
+selectraws1/3	0	19	''	''	*))	-	-	-	-	*	1)
+
+
+#end document
+

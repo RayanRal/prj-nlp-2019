@@ -1,0 +1,107 @@
+#begin document (selectraws/39); part 000
+
+selectraws/39	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/39	0	1	one	CD	(NP*	-	-	-	-	*	(2
+selectraws/39	0	2	play	NN	*))	-	-	-	-	*	-
+selectraws/39	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/39	0	5	author	NN	*))	-	-	-	-	*	2)|1)
+selectraws/39	0	6	,	,	*	-	-	-	-	*	-
+selectraws/39	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/39	0	8	house	NN	*)	-	-	-	-	*	-
+selectraws/39	0	9	belonging	VBG	(VP*	-	-	-	-	*	-
+selectraws/39	0	10	to	TO	(PP*	-	-	-	-	*	-
+selectraws/39	0	11	the	DT	(NP*	-	-	-	-	*	(3
+selectraws/39	0	12	central	JJ	*	-	-	-	-	*	-
+selectraws/39	0	13	characters	NNS	*))))	-	-	-	-	*	3)
+selectraws/39	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/39	0	15	finally	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/39	0	16	paid	VBN	(VP*	-	-	-	-	*	-
+selectraws/39	0	17	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws/39	0	18	just	RB	(PP(NP*	-	-	-	-	*	-
+selectraws/39	0	19	days	NNS	*)	-	-	-	-	*	-
+selectraws/39	0	20	before	IN	*	-	-	-	-	*	-
+selectraws/39	0	21	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/39	0	22	funeral	NN	*)	-	-	-	-	*	-
+selectraws/39	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	24	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/39	0	25	title	NN	*	-	-	-	-	*	-
+selectraws/39	0	26	character	NN	*)	-	-	-	-	*	4)
+selectraws/39	0	27	,	,	*	-	-	-	-	*	-
+selectraws/39	0	28	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/39	0	29	dies	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/39	0	30	in	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	31	an	DT	(NP*	-	-	-	-	*	-
+selectraws/39	0	32	automobile	NN	*	-	-	-	-	*	-
+selectraws/39	0	33	crash	NN	*)))))))))))	-	-	-	-	*	-
+selectraws/39	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/39	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/39	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws/39	0	2	fictionalized	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws/39	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/39	0	4	real-life	JJ	*	-	-	-	-	*	-
+selectraws/39	0	5	marriage	NN	*)	-	-	-	-	*	-
+selectraws/39	0	6	to	TO	(PP*	-	-	-	-	*	-
+selectraws/39	0	7	Marilyn	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws/39	0	8	Monroe	NNP	*))	-	-	-	-	*)	5)
+selectraws/39	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	10	After	IN	(PP*	-	-	-	-	*	(6
+selectraws/39	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws/39	0	12	Fall	NN	*))))	-	-	-	-	*	6)
+selectraws/39	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/39	0	14	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/39	0	15	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/39	0	16	play	NN	*)	-	-	-	-	*	2)
+selectraws/39	0	17	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/39	0	18	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/39	0	19	Uncle	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(7
+selectraws/39	0	20	Ben	NNP	*)	-	-	-	-	*)	7)
+selectraws/39	0	21	strikes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/39	0	22	it	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws/39	0	23	rich	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/39	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	25	Alaska	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+selectraws/39	0	26	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/39	0	27	Happy	NNP	(S(NP*	-	-	-	-	*	(10|(8)
+selectraws/39	0	28	and	CC	*	-	-	-	-	*	-
+selectraws/39	0	29	Biff	NNP	*)	-	-	-	-	(PERSON)	(9)|10)
+selectraws/39	0	30	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/39	0	31	embittered	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/39	0	32	about	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	33	their	PRP$	(NP(NP(NP*	-	-	-	-	*	(4|(10)
+selectraws/39	0	34	father	NN	*	-	-	-	-	*	4)
+selectraws/39	0	35	's	POS	*)	-	-	-	-	*	-
+selectraws/39	0	36	insistence	NN	*)	-	-	-	-	*	-
+selectraws/39	0	37	on	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	38	living	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/39	0	39	the	DT	(NP*	-	-	-	-	*	-
+selectraws/39	0	40	American	NNP	*	-	-	-	-	*	-
+selectraws/39	0	41	Dream	NN	*)))))))))))))))))	-	-	-	-	*	-
+selectraws/39	0	42	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/39	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/39	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/39	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/39	0	3	,	,	*	-	-	-	-	*	-
+selectraws/39	0	4	identify	VB	(VP*	-	-	-	-	*	-
+selectraws/39	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/39	0	6	American	JJ	*	-	-	-	-	*	-
+selectraws/39	0	7	playwright	NN	*)	-	-	-	-	*	1)
+selectraws/39	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/39	0	9	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/39	0	10	about	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	11	Willy	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws/39	0	12	Loman	NNP	*))	-	-	-	-	*)	4)
+selectraws/39	0	13	in	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	14	Death	NN	(NP(NP*)	-	-	-	-	*	(2
+selectraws/39	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws/39	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws/39	0	17	Salesman	NN	*)))))))))	-	-	-	-	*	2)
+selectraws/39	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+
