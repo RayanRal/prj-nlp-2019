@@ -28,10 +28,9 @@ for filename in files:
 all_data_string = ' '.join(all_data_sents)
 print(len(all_data_string))
 
-# tokenized_text = [list(map(str.lower, nltk.tokenize.word_tokenize(sent))) for sent in all_data_string]
 tokenized_string = all_data_string.split(' ')
 
-n = 20
+n = 2
 train_data = [nltk.bigrams(t, pad_right=True, pad_left=True, left_pad_symbol="<s>", right_pad_symbol="</s>") for t in
               tokenized_string]
 words = [word for sent in tokenized_string for word in sent]
@@ -53,4 +52,5 @@ baseline_tokenized = baseline_par.split(' ')
 test_data = [nltk.ngrams(t, n, pad_right=True, pad_left=True, left_pad_symbol="<s>", right_pad_symbol="</s>") for t in
              baseline_tokenized]
 for i, test in enumerate(test_data):
+    # print("PP({0}):{1}".format(list(test_data[i]), model.perplexity(test)))
     print("PP({0}):{1}".format(baseline_par[i], model.perplexity(test)))
