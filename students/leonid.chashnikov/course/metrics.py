@@ -78,6 +78,18 @@ print('GF {}'.format(textstat.gunning_fog(baseline_par)))  # 62.66
 
 
 
+charlevel_par = "tyrion drank it in his window seat, brooding over the sea . the storms and the first time it was the same and ser barristan said . i was the man who was a stone , and the sea would have been there , and the dragon had been a stream of a stone wall , and the storm remembered the starks and his face . the woman was the sea when the stag of a hundred leather and the sea with a current . they made the"
+
+print('Flesh {}'.format(textstat.flesch_reading_ease(charlevel_par)))  #23.1
+print('GF {}'.format(textstat.gunning_fog(charlevel_par)))  #33.39
+# input: tyrion drank it in his window seat, brooding over
+# output:
+# "tyrion drank it in his window seat, brooding over the sea . the storms and the first time it was the same and
+# ser barristan said . i was the man who was a stone , and the sea would have been there , and the dragon
+# had been a stream of a stone wall , and the storm remembered the starks and his face . the woman was the
+# sea when the stag of a hundred leather and the sea with a current . they made the"
+
+
 
 
 
