@@ -89,7 +89,25 @@ print('GF {}'.format(textstat.gunning_fog(charlevel_par)))  #33.39
 # had been a stream of a stone wall , and the storm remembered the starks and his face . the woman was the
 # sea when the stag of a hundred leather and the sea with a current . they made the"
 
+wordemb_par = "tyrion drank it in his window seat , brooding over the chaos of the kitchens below . and she had taken her meals . but she could not see . she took them back , she could feel her eyes , and she was shaking . she could feel the emptiness in her belly , and how could she dare not feel like a child . she was a girl in a thousand years , but she was not to be afraid of the mother . she is still still safe to"
+print('Flesh {}'.format(textstat.flesch_reading_ease(wordemb_par)))  #14.64
+print('GF {}'.format(textstat.gunning_fog(wordemb_par)))  #32.4
 
+# wordemb_par = "tyrion drank it in his window seat , brooding over the chaos of the kitchens below .
+# and she had taken her meals . but she could not see . she took them back ,
+# she could feel her eyes , and she was shaking . she could feel the emptiness in her belly ,
+# and how could she dare not feel like a child . she was a girl in a thousand years ,
+# but she was not to be afraid of the mother . she is still still safe to"
+
+nowordemb_par = "tyrion drank it in his window seat , brooding over the chaos of the kitchens below . he had heard the little laugh . and the next he had not slept , but he knew he had not forgotten . the night is watch was not the first time , and he was there , and he felt a cold morning in the rain . he could feel ice from the air , and he heard the sun . he had heard that he could not bear to see himself . he"
+print('Flesh {}'.format(textstat.flesch_reading_ease(nowordemb_par)))  #23.1
+print('GF {}'.format(textstat.gunning_fog(nowordemb_par)))  #32.4
+
+
+# "tyrion drank it in his window seat , brooding over the chaos of the kitchens below .
+# he had heard the little laugh . and the next he had not slept , but he knew he had not forgotten .
+# the night is watch was not the first time , and he was there , and he felt a cold morning in the rain .
+# he could feel ice from the air , and he heard the sun . he had heard that he could not bear to see himself . he"
 
 
 
